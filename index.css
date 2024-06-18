@@ -1,0 +1,13 @@
+li{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+body{
+    opacity: 0.9;
+    background-image: url(https://img.freepik.com/free-vector/pink-background-with-white-hearts-lines_1108-136.jpg?w=740&t=st=1718728899~exp=1718729499~hmac=5d3c41ba36c1ce3063543debba52eae1f6e8ea5828c34d7559b7c5d27e05df90);
+    background-color: peachpuff;
+    background-position: center;
+    background-size: cover;
+}
